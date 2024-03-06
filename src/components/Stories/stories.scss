@@ -1,0 +1,16 @@
+.storie-container{
+    
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2vh;
+    
+    .post-container{
+       
+        margin-inline: auto;
+        margin-bottom: 2%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
+    }
+}
